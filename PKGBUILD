@@ -1,7 +1,7 @@
 # Maintainer: Martijn Heil <m.heil375@gmail.com>
 
 pkgname=signalk-server
-pkgver=1.39.0
+pkgver=1.44.0
 pkgrel=1
 pkgdesc="An implementation of a Signal K server."
 arch=('any')
